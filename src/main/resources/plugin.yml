@@ -1,0 +1,7 @@
+name: CustomEnderchestToPurpur
+version: ${project.version}
+main: org.pandacraft.customenderchesttopurpur.CustomEnderchestToPurpur
+api-version: 1.17
+authors: [ BlackBeltPanda ]
+description: Converts enderchest data from CustomEnderChest to Purpur
+website: https://www.pandacraft.org
